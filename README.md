@@ -94,6 +94,8 @@ python -m QDBandit.run_ts \
     --max_iters 1000 \
     --dataset data/harmbench.json \
     --target_llm "Qwen/Qwen2.5-7B-Instruct"
+```
+
 
 ## Related Work
 
