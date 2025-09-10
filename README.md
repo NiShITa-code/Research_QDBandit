@@ -1,6 +1,4 @@
 
-Here's a comprehensive research-focused README for QD-Bandit:
-
 # QD-Bandit: Quality-Diversity Selection as Multi-Armed Bandit Problem for Adversarial Prompt Generation
 
 QD-Bandit addresses a fundamental inefficiency in current quality-diversity approaches for automated adversarial prompt generation: the reliance on heuristic descriptor selection strategies that fail to learn from evaluation history. By formulating descriptor combination selection as a multi-armed bandit problem, QD-Bandit replaces uniform random sampling with principled exploration-exploitation strategies that adaptively focus computational resources on promising attack vectors while maintaining theoretical guarantees for comprehensive vulnerability discovery.
